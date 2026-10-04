@@ -27,6 +27,10 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/dycom-industries.png
 tags:
+  - Telecommunications
+  - Utilities
+  - Construction
+tags_raw:
   - Telecom
   - Utilities
   - Construction
@@ -39,6 +43,10 @@ apis:
   - aid: dycom-industries:dycom-industries-api
     name: Dycom Industries API
     tags:
+      - Telecommunications
+      - Utilities
+      - Construction
+    tags_raw:
       - Telecom
       - Utilities
       - Construction
