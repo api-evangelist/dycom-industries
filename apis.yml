@@ -37,7 +37,7 @@ tags_raw:
 description: >-
   Dycom Industries is a major US corporation and Fortune 1000 company. The Dycom Industries API provides programmatic access to its platform services, data, and integrations for enterprise customers and partners.
 created: '2026-04-19'
-modified: '2026-04-19'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis:
   - aid: dycom-industries:dycom-industries-api
@@ -59,6 +59,8 @@ apis:
     description: >-
       The Dycom Industries API provides access to platform services and data for enterprise integration and automation.
 common:
+  - url: https://dycomind.com/what-we-do/engineering/
+    type: Blog
   - type: DomainSecurity
     url: security/dycom-industries-domain-security.yml
   - type: LinkedIn
