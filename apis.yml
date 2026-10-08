@@ -59,6 +59,12 @@ apis:
     description: >-
       The Dycom Industries API provides access to platform services and data for enterprise integration and automation.
 common:
+  - type: Plans
+    url: plans/dycom-industries-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/dycom-industries-rate-limits.yml
+  - type: FinOps
+    url: finops/dycom-industries-finops.yml
   - url: https://dycomind.com/what-we-do/engineering/
     type: Blog
   - type: DomainSecurity
